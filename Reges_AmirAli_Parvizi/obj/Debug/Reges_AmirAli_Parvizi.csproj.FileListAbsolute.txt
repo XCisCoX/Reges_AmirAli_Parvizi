@@ -1,0 +1,38 @@
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\Reges_AmirAli_Parvizi.exe.config
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\Reges_AmirAli_Parvizi.exe
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\Reges_AmirAli_Parvizi.pdb
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Form1.resources
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmCheragh_rohnama.resources
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmSingIn.resources
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmTImer.resources
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Game.resources
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Mench.resources
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Properties.Resources.resources
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.csproj.GenerateResource.Cache
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.exe
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.pdb
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.csprojResolveAssemblyReference.cache
+C:\Users\DSG\Desktop\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmLabelMove.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\Reges_AmirAli_Parvizi.exe.config
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\Reges_AmirAli_Parvizi.exe
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\Reges_AmirAli_Parvizi.pdb
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.csprojResolveAssemblyReference.cache
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Form1.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmCheragh_rohnama.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmLabelMove.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmSingIn.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.frmTImer.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Game.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Mench.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Properties.Resources.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.csproj.GenerateResource.Cache
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.exe
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.pdb
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.Riazi.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.MashinHesab.resources
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.csproj.ResolveComReference.cache
+C:\Users\DSG\Documents\Visual Studio 2013\Projects\Reges_AmirAli_Parvizi\Reges_AmirAli_Parvizi\obj\Debug\Reges_AmirAli_Parvizi.PictureAndShower.resources
